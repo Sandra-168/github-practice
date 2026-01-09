@@ -4,4 +4,4 @@ jobs:
   say-hi:
     runs-on: ubuntu-latest
     steps:
-      - run: echo ""I have updated the workflow!"
+      - run: echo "I have updated the workflow!"
