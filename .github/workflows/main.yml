@@ -4,4 +4,4 @@ jobs:
   say-hi:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "Hello, GitHub Actions is running!"
+      - run: echo ""I have updated the workflow!"
