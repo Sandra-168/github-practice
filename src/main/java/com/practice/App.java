@@ -8,5 +8,6 @@ public class App {
     // 提供一個簡單的方法讓測試案例呼叫
     public String getGreeting() {
         return "Hello World";
+        //return "你好,測試!";
     }
 }

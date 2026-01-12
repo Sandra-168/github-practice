@@ -13,7 +13,7 @@ public class AppTest {
     public void testGreeting() {
         App myApp = new App();
         // 驗證 getGreeting() 回傳的是否為 "Hello World"
-        assertEquals("Hello World", myApp.getGreeting());
+        assertEquals("Hello Java", myApp.getGreeting());
     }
 
     /*
